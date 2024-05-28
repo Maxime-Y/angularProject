@@ -1,0 +1,22 @@
+.user-profile {
+  border: 1px solid #ccc;
+  padding: 20px;
+  border-radius: 8px;
+  max-width: 300px;
+  text-align: center;
+}
+
+.user-profile img {
+  width: 100px;
+  height: 100px;
+  border-radius: 50%;
+  margin-bottom: 10px;
+}
+
+.user-profile div {
+  margin-bottom: 10px;
+}
+
+.user-profile button {
+  margin-top: 10px;
+}
