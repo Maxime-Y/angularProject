@@ -4,7 +4,7 @@ import { UserProfileComponent } from './user-profile/user-profile.component';
 
 export const routes: Routes = [
 
-  {path: '/signup', component: SignupComponent},
-  {path: '/user', component: UserProfileComponent},
+  {path: 'signup', component: SignupComponent},
+  {path: 'user', component: UserProfileComponent},
   {path: '**', component: UserProfileComponent}
 ];
